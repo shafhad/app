@@ -20,21 +20,21 @@ var sound3;
 
 function preload(){
 
-  doctor1img=loadImage("../image/doctor1.png");
-  police1img=loadImage("../image/police1.png");
-  person1=loadImage("../image/person1.png");
-  person2=loadImage("../image/person2.png");
-  doctorimg=loadImage("../image/doctor.png");
-  coronavirus=loadImage("../image/coronavirus.png");
-  policeimg=loadImage("../image/police2.png");
-  msgimg=loadImage("../image/bg.jpg");
-  bg1img=loadImage("../image/bg1.jpg");
-  bg2img=loadImage("../image/bg2.png");
-  bg3img=loadImage("../image/bg3.jpg");
-  text1img=loadImage("../image/text1.png");
-  droneimg=loadImage("../image/drone.png");
-  dropsimg=loadImage("../image/drops.png");
-  restartimg=loadImage("../image/restart.png");
+  doctor1img=loadImage("image/doctor1.png");
+  police1img=loadImage("image/police1.png");
+  person1=loadImage("image/person1.png");
+  person2=loadImage("image/person2.png");
+  doctorimg=loadImage("image/doctor.png");
+  coronavirus=loadImage("image/coronavirus.png");
+  policeimg=loadImage("image/police2.png");
+  msgimg=loadImage("image/bg.jpg");
+  bg1img=loadImage("image/bg1.jpg");
+  bg2img=loadImage("image/bg2.png");
+  bg3img=loadImage("image/bg3.jpg");
+  text1img=loadImage("image/text1.png");
+  droneimg=loadImage("image/drone.png");
+  dropsimg=loadImage("image/drops.png");
+  restartimg=loadImage("image/restart.png");
   sound1=loadSound("s1.mp3", false);
   sound2=loadSound("s2.mp3", false);
    sound3=loadSound("s3.mp3", false);
